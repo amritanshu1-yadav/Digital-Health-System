@@ -37,7 +37,7 @@ The current project is developed using HTML, CSS, and JavaScript and can run dir
 
 ## 📸 Project Interface
 
-###  
+###  Worker details for doctor 
 
 <img src="https://github.com/user-attachments/assets/e4b3e0a7-9729-4ddc-abba-f415adb9ab60" width="957">
 
