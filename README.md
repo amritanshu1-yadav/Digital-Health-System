@@ -45,23 +45,24 @@ The current project is developed using HTML, CSS, and JavaScript and can run dir
 
 <img src="https://github.com/user-attachments/assets/d830e1d7-5908-42a9-bfcc-240279ac2f71" width="956">
 
-### Interface 3
+### Doctor details 
+
 
 <img src="https://github.com/user-attachments/assets/78d4ecf7-007f-4be4-af8e-ae6c1f49b8e8" width="940">
 
-### Interface 4
+### Upload interface 
 
 <img src="https://github.com/user-attachments/assets/7853b5b4-8950-4f76-917b-dfa1a7d78456" width="959">
 
-### Interface 5
+### Medication & report interface
 
 <img src="https://github.com/user-attachments/assets/688c6b77-14f3-46c6-8e1e-aecd5a62d11b" width="945">
 
-###  worker details
+###  Worker details
 
 <img src="https://github.com/user-attachments/assets/110ade60-69ca-4ef3-b289-330781c7a143" width="956">
 
-###  worker id
+###  Worker id
 
 <img src="https://github.com/user-attachments/assets/6d12fd52-1805-43da-b5b5-4a458e8df603" width="840">
 
