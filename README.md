@@ -57,11 +57,11 @@ The current project is developed using HTML, CSS, and JavaScript and can run dir
 
 <img src="https://github.com/user-attachments/assets/688c6b77-14f3-46c6-8e1e-aecd5a62d11b" width="945">
 
-### Interface 6
+###  worker details
 
 <img src="https://github.com/user-attachments/assets/110ade60-69ca-4ef3-b289-330781c7a143" width="956">
 
-###  worker details
+###  worker id
 
 <img src="https://github.com/user-attachments/assets/6d12fd52-1805-43da-b5b5-4a458e8df603" width="840">
 
